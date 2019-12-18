@@ -6,7 +6,7 @@ function getUserId() {
 // TODO: Initialize the SDK (the SDK is available in the variable optimizelySdk)
 
 // STEP 2
-// TODO: Update the page when Optimizely is ready
+// TODO: Call updatePage when Optimizely is ready
 updatePage();
 
 function updatePage() {
